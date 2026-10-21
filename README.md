@@ -5,7 +5,7 @@ Hi, I'm Aditya Kathalkar 👋
 💡 Technology Enthusiast and Continuous Learner
 
 About Me
-🎓 B.Sc. Computer Science graduate, currently pursuing M.Sc. Computer Science.
+- B.Sc. Computer Science graduate, currently pursuing M.Sc. Computer Science.
 - Interested in learning new technologies and improving technical skills
 - Completed academic projects and internships as part of my studies
 - Familiar with computer applications, databases, and basic software development concepts
